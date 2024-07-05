@@ -1,0 +1,3 @@
+Mean Latency for Client 1: 997.448000 ms
+Mean Latency for Client 2: 997.9598571428571428571428571 ms
+Mean Latency for Client 3: 997.9598571428571428571428571 ms
